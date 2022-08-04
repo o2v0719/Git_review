@@ -96,7 +96,7 @@
     git reset HEAD~1
     ```
 	  
-	- “硬性撤销” ： 撤销后，文件test4.txt被删除。
+  - “硬性撤销” ： 撤销后，文件test4.txt被删除。
 
 		```bash
 		git reset --hard HEAD~1
